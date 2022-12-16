@@ -35,4 +35,6 @@ But there are still things to fix that I didn't have time to do because of the i
 
 -Maybe add a slight border on the photos of the dishes, to make them softer and more pleasant
 
+-just a litle CSS Line to write for a minor menu bug
+
 The V1 version is also available on EasyMeal root
